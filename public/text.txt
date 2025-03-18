@@ -1,14 +1,26 @@
-Hi, My name is taha.
-I am 15 years old.
-Also, I now how to code.
-I have programming in many languages such as:
-    JavaScript
-    Python
-    HTML
-    CSS
-    C++
-    C
-    C#
-    Java
+This is a file
+It is displayed when you press the button.
+The files name is text.txt.
+You can change the contents of the file as well
+    and the page will update when you press the
+    button again.
+Amazing Right!
+Furthurmore, it is encrypted.
+So no one can see the contents of the
+    file except you
 
-and more!
+##### #   #  #### ####  #   # ####  ##### #####  ###  #   #
+#     ##  # #     #   # #   # #   #   #     #   #   # ##  #
+###   # # # #     ###    # #  ####    #     #   #   # # # #
+#     #  ## #     #  #    #   #       #     #   #   # #  ##
+##### #   #  #### #   #   #   #       #   #####  ###  #   #
+
+            ####  #   # #     #####  ###  #
+            #   # #   # #     #     #     #
+            ###   #   # #     ###    ###  #
+            #  #  #   # #     #         #  
+            #   #  ###  ##### #####  ###  #
+
+
+If you want to understand how this works, you can check this document:
+https://docs.google.com/document/d/1CnX_wTWbXXaGqfRMYLh-6mWwx4qrVmlo1oOOKr2RMuQ/edit?usp=sharing
