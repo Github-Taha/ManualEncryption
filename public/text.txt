@@ -1,0 +1,14 @@
+Hi, My name is taha.
+I am 15 years old.
+Also, I now how to code.
+I have programming in many languages such as:
+    JavaScript
+    Python
+    HTML
+    CSS
+    C++
+    C
+    C#
+    Java
+
+and more!
