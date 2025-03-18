@@ -2,7 +2,6 @@ import { Cipher } from "./encrypt/cipher.mjs";
 import http from "http";
 import fs from "fs";
 import path from "path";
-import { CaeserCipher } from "./encrypt/caeserCipher.mjs";
 
 const PORT = 3000;
 const PUBLIC_DIR = new URL('./public', import.meta.url).pathname;
@@ -116,4 +115,3 @@ server.listen(
         console.log(`Server running at http://localhost:${PORT}/`);
     }
 );
-
